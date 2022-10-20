@@ -1,0 +1,191 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="9312fa2c-7719-40f1-8d80-1235fa0d9885" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../demo1/order/src/main/java/com/example/order/mapper/OrderMapper.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demo1/order/src/main/java/com/example/order/pojo/Order.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demo1/order/src/main/java/com/example/order/service/OrderService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demo1/order/src/main/java/com/example/order/web/OrderController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demo1/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demo1/user/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demo1/user/src/main/java/com/example/user/UserApplication.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demo1/user/src/main/java/com/example/user/mapper/UserMapper.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demo1/user/src/main/java/com/example/user/pojo/User.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demo1/user/src/main/java/com/example/user/service/UserService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demo1/user/src/main/java/com/example/user/web/UserController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demo1/user/src/main/resources/application.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demo1/user/src/test/java/com/example/user/UserApplicationTests.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Vue-blog-main/image/commentrp.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Vue-blog-main/img.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Vue-blog-main/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Vue-blog-main/readme.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Vue-blog-main/sg-admin/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Vue-blog-main/sg-admin/test/java/com/sangeng/service/impl/ArticleServiceImplTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Vue-blog-main/sg-blog/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Vue-blog-main/sg-blog/src/main/java/com/sangeng/config/SecurityConfig.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Vue-blog-main/sg-blog/src/main/java/com/sangeng/controller/ArticleController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Vue-blog-main/sg-blog/src/main/java/com/sangeng/controller/BlogLoginController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Vue-blog-main/sg-blog/src/main/java/com/sangeng/controller/CategoryController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Vue-blog-main/sg-blog/src/main/java/com/sangeng/controller/CommentController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Vue-blog-main/sg-blog/src/main/java/com/sangeng/controller/LinkController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Vue-blog-main/sg-blog/src/main/java/com/sangeng/controller/UploadController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Vue-blog-main/sg-blog/src/main/java/com/sangeng/controller/usercontroller.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Vue-blog-main/sg-blog/src/main/java/com/sangeng/filter/JwtAuthenticationTokenFilter.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Vue-blog-main/sg-blog/src/main/java/com/sangeng/job/updateviewjob.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Vue-blog-main/sg-blog/src/main/java/com/sangeng/runner/viewrunner.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Vue-blog-main/sg-blog/src/main/java/com/sangeng/sgblogApp.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Vue-blog-main/sg-blog/src/main/resources/application.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Vue-blog-main/sg-blog/src/test/java/com/sangeng/controller/ArticleControllerTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Vue-blog-main/sg-framework/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Vue-blog-main/sg-framework/src/main/java/com/sangeng/annotation/SystemLog.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Vue-blog-main/sg-framework/src/main/java/com/sangeng/aspect/LogAspect.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Vue-blog-main/sg-framework/src/main/java/com/sangeng/config/FastJsonRedisSerializer.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Vue-blog-main/sg-framework/src/main/java/com/sangeng/config/MbatisPlusConfig.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Vue-blog-main/sg-framework/src/main/java/com/sangeng/config/RedisConfig.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Vue-blog-main/sg-framework/src/main/java/com/sangeng/config/WebConfig.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Vue-blog-main/sg-framework/src/main/java/com/sangeng/constants/SystemConstants.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Vue-blog-main/sg-framework/src/main/java/com/sangeng/entity/Article.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Vue-blog-main/sg-framework/src/main/java/com/sangeng/entity/Category.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Vue-blog-main/sg-framework/src/main/java/com/sangeng/entity/Comment.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Vue-blog-main/sg-framework/src/main/java/com/sangeng/entity/Link.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Vue-blog-main/sg-framework/src/main/java/com/sangeng/entity/LoginUser.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Vue-blog-main/sg-framework/src/main/java/com/sangeng/entity/R/ResponseResult.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Vue-blog-main/sg-framework/src/main/java/com/sangeng/entity/User.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Vue-blog-main/sg-framework/src/main/java/com/sangeng/enums/AppHttpCodeEnum.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Vue-blog-main/sg-framework/src/main/java/com/sangeng/exception/SystemException.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Vue-blog-main/sg-framework/src/main/java/com/sangeng/handler/exception/GlobalExceptionHandler.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Vue-blog-main/sg-framework/src/main/java/com/sangeng/handler/mybatisplus/MyMetaObjectHandler.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Vue-blog-main/sg-framework/src/main/java/com/sangeng/handler/security/AccessDeniedHandlerImpl.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Vue-blog-main/sg-framework/src/main/java/com/sangeng/handler/security/AuthenticationEntryPointImpl.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Vue-blog-main/sg-framework/src/main/java/com/sangeng/mapper/ArticleMapper.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Vue-blog-main/sg-framework/src/main/java/com/sangeng/mapper/CategoryMapper.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Vue-blog-main/sg-framework/src/main/java/com/sangeng/mapper/CommentMapper.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Vue-blog-main/sg-framework/src/main/java/com/sangeng/mapper/LinkMapper.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Vue-blog-main/sg-framework/src/main/java/com/sangeng/mapper/UserMapper.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Vue-blog-main/sg-framework/src/main/java/com/sangeng/service/ArticleService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Vue-blog-main/sg-framework/src/main/java/com/sangeng/service/BlogLoginService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Vue-blog-main/sg-framework/src/main/java/com/sangeng/service/CategoryService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Vue-blog-main/sg-framework/src/main/java/com/sangeng/service/CommentService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Vue-blog-main/sg-framework/src/main/java/com/sangeng/service/LinkService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Vue-blog-main/sg-framework/src/main/java/com/sangeng/service/UserService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Vue-blog-main/sg-framework/src/main/java/com/sangeng/service/impl/ArticleServiceImpl.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Vue-blog-main/sg-framework/src/main/java/com/sangeng/service/impl/Blogloginserviceimpl.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Vue-blog-main/sg-framework/src/main/java/com/sangeng/service/impl/CategoryServiceImpl.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Vue-blog-main/sg-framework/src/main/java/com/sangeng/service/impl/CommentServiceImpl.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Vue-blog-main/sg-framework/src/main/java/com/sangeng/service/impl/LinkServiceImpl.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Vue-blog-main/sg-framework/src/main/java/com/sangeng/service/impl/OssUploadService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Vue-blog-main/sg-framework/src/main/java/com/sangeng/service/impl/UserDetailsServiceImpl.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Vue-blog-main/sg-framework/src/main/java/com/sangeng/service/impl/UserServiceImpl.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Vue-blog-main/sg-framework/src/main/java/com/sangeng/service/uploadservice.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Vue-blog-main/sg-framework/src/main/java/com/sangeng/utils/BeanCopyUtils.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Vue-blog-main/sg-framework/src/main/java/com/sangeng/utils/JwtUtil.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Vue-blog-main/sg-framework/src/main/java/com/sangeng/utils/PathUtils.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Vue-blog-main/sg-framework/src/main/java/com/sangeng/utils/RedisCache.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Vue-blog-main/sg-framework/src/main/java/com/sangeng/utils/SecurityUtils.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Vue-blog-main/sg-framework/src/main/java/com/sangeng/utils/WebUtils.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Vue-blog-main/sg-framework/src/main/java/com/sangeng/vo/ArticleDetailVo.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Vue-blog-main/sg-framework/src/main/java/com/sangeng/vo/ArticleListVo.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Vue-blog-main/sg-framework/src/main/java/com/sangeng/vo/BlogUserLoginVo.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Vue-blog-main/sg-framework/src/main/java/com/sangeng/vo/CategoryVo.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Vue-blog-main/sg-framework/src/main/java/com/sangeng/vo/CommentVo.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Vue-blog-main/sg-framework/src/main/java/com/sangeng/vo/HotArticlevo.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Vue-blog-main/sg-framework/src/main/java/com/sangeng/vo/LinkVo.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Vue-blog-main/sg-framework/src/main/java/com/sangeng/vo/PageVo.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Vue-blog-main/sg-framework/src/main/java/com/sangeng/vo/UserInfoVo.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Vue-blog-main/sg-framework/src/test/java/com/sangeng/service/impl/ArticleServiceImplTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../pythonProject1/demo.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../test/src/test.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../新建文件夹 (2)/hubei.ipynb" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="useMavenConfig" value="true" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="2GOMXn7SCKkUj7689HRevNxxkqG" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.4275862" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RebelAgentSelection">
+    <selection>jr</selection>
+  </component>
+  <component name="RunManager" selected="Spring Boot.GulimallMemberApplication">
+    <configuration name="GulimallCouponApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="gulimall-coupon" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.xunqi.gulimall.coupon.GulimallCouponApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="GulimallMemberApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="gulimall-member" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.xunqi.gulimall.member.GulimallMemberApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="GulimallOrderApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="gulimall-order" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.xunqi.gulimall.order.GulimallOrderApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="GulimallProductApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="gulimall-product" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.xunqi.gulimall.product.GulimallProductApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="GulimallWareApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="gulimall-ware" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.xunqi.gulimall.ware.GulimallWareApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="9312fa2c-7719-40f1-8d80-1235fa0d9885" name="Changes" comment="" />
+      <created>1666255221282</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1666255221282</updated>
+      <workItem from="1666255222463" duration="351000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
